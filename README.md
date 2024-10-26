@@ -26,7 +26,7 @@
         <a href="https://www.tensorflow.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" alt="tensorflow" width="40" height="40" />
         </a> 
-        <a href="https://github.com/ultralytics/yolov5" target="_blank">
+        <a href="https://www.ultralytics.com/pt" target="_blank">
                 <img src="https://avatars.githubusercontent.com/u/26833451?s=200&v=4" alt="ultralytics" width="40" height="40" /> 
         </a> 
         <a href="https://pjreddie.com/darknet/" target="_blank">
