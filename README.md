@@ -3,7 +3,7 @@
 [<img src="https://img.shields.io/badge/Larissa Freitas-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />](https://linkedin.com/in/larissa-freitas-da-silva)
 [<img src="https://img.shields.io/badge/Larissa Freitas-000000?style=flat-square&logo=Medium&logoColor=white" />](https://medium.com/@b.larissafs)
 
-  - 💻 Desenvolvedora de Software e MLOPs há mais de 4 anos.
+  - 💻 Desenvolvedora de Software e MLOPs.
   - 🏆 Graduada em Análise e Desenvolvimento de Sistemas.
 - Especializações:::
   - 🏆 Pós-Graduação - Business intelligence, big data e analytics.
