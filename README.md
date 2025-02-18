@@ -9,7 +9,7 @@
   - 🏆 Pós-Graduação - Business intelligence, big data e analytics.
   - 📍 Pós-Graduação - Ciência de Dados e Inteligência Artificial.
 
-### :rocket: Tecnologias 
+### :rocket: Tecnologias
 <p align="left"> 
         <a href="https://matplotlib.org/" target="_blank">
                 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="matplotlib" width="40" height="40"/> 
@@ -56,3 +56,6 @@
 
 
 </p>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=larifreitas&layout=donut)](https://github.com/larifreitas/github-readme-stats)
+  
