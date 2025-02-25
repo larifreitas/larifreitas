@@ -56,6 +56,9 @@
         <a href="https://seaborn.pydata.org/tutorial/introduction.html" target=" ">
                 <img src="https://user-images.githubusercontent.com/315810/92161415-9e357100-edfe-11ea-917d-f9e33fd60741.png" alt="seaborn" width="40" height="40">
         </a>
+                <a href="https://seaborn.pydata.org/tutorial/introduction.html" target=" ">
+                <img src="https://static-00.iconduck.com/assets.00/apps-arduino-icon-256x256-mp2raho4.png" alt="seaborn" width="40" height="40">
+        </a>
 
 
 </p>
